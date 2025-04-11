@@ -1,0 +1,115 @@
+# This file was created Fri Apr 11 23:27:09 2025
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi rmsf -s /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/10ns/md_10ns.tpr -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/10ns/md_10ns_centered.xtc -n /home/md_yiru/work_file/MD_results/batch3/replicate_1/chains.ndx -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/chains/ChainD/300K/10ns/rmsf.xvg -oq /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/chains/ChainD/300K/10ns/rmsf_bfac.pdb -res
+# gmx rmsf is part of G R O M A C S:
+#
+# Giant Rising Ordinary Mutants for A Clerical Setup
+#
+@    title "RMSF Per Residue of Chain D at 300K (10ns)"
+@    xaxis  label "Residue Number"
+@    yaxis  label "RMSF (nm)"
+@TYPE xy
+   88   0.0534
+   89   0.0467
+   90   0.0544
+   91   0.0620
+   92   0.0804
+   93   0.1983
+   94   0.1567
+   95   0.1183
+   96   0.0423
+   97   0.0542
+   98   0.0800
+   99   0.0415
+  100   0.0726
+  101   0.1369
+  102   0.0590
+  103   0.0548
+  104   0.1200
+  105   0.1068
+  106   0.0993
+  107   0.0543
+  108   0.1192
+  109   0.1073
+  110   0.0788
+  111   0.0791
+  112   0.1980
+  113   0.0980
+  114   0.0894
+  115   0.0686
+  116   0.0655
+  117   0.0937
+  118   0.0541
+  119   0.0373
+  120   0.0403
+  121   0.0675
+  122   0.0865
+  123   0.0803
+  124   0.1383
+  125   0.1416
+  126   0.2080
+  127   0.1844
+  128   0.1113
+  129   0.0947
+  130   0.0940
+  131   0.0583
+  132   0.0595
+  133   0.0806
+  134   0.1560
+  135   0.0880
+  136   0.1091
+  137   0.0626
+  138   0.1314
+  139   0.0838
+  140   0.0495
+  141   0.0561
+  142   0.0779
+  143   0.1715
+  144   0.0633
+  145   0.0716
+  146   0.0500
+  147   0.0633
+  148   0.0644
+  149   0.0545
+  150   0.1298
+  151   0.0713
+  152   0.0897
+  153   0.2533
+  154   0.1382
+  155   0.1043
+  156   0.2145
+  157   0.1946
+  158   0.0722
+  159   0.1431
+  160   0.2175
+  161   0.0764
+  162   0.0658
+  163   0.1349
+  164   0.1186
+  165   0.0915
+  166   0.0609
+  167   0.0669
+  168   0.1600
+  169   0.0587
+  170   0.0795
+  171   0.1832
+  172   0.1318
+  173   0.1444
+  334   0.2925
+  335   0.2236
+  336   0.1375
+  337   0.1216
+  338   0.1329
+  339   0.2675
+  340   0.1028
+  341   0.1039
+  342   0.1569
+  343   0.1416
+  344   0.0865
+  345   0.1053

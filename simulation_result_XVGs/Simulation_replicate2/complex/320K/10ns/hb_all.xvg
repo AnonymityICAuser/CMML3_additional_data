@@ -1,0 +1,125 @@
+# This file was created Wed Apr  9 14:42:03 2025
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi hbond -s /home/md_yiru/work_file/datasets/replicate_2/9_md/320K/10ns/md_10ns_protein.tpr -f /home/md_yiru/work_file/datasets/replicate_2/9_md/320K/10ns/md_10ns_centered.xtc -tu ns -num /home/md_yiru/work_file/datasets/replicate_2/result_analysis/complex/320K/10ns/hb_all.xvg
+# gmx hbond is part of G R O M A C S:
+#
+# Giant Rising Ordinary Mutants for A Clerical Setup
+#
+@    title "Total Hydrogen Bonds at 320K (10ns)"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "Number of H-bonds"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Hydrogen bonds"
+      0.000        307
+      0.100        311
+      0.200        303
+      0.300        314
+      0.400        322
+      0.500        315
+      0.600        307
+      0.700        311
+      0.800        321
+      0.900        301
+      1.000        313
+      1.100        310
+      1.200        307
+      1.300        316
+      1.400        305
+      1.500        319
+      1.600        300
+      1.700        300
+      1.800        303
+      1.900        317
+      2.000        316
+      2.100        309
+      2.200        309
+      2.300        304
+      2.400        303
+      2.500        302
+      2.600        303
+      2.700        300
+      2.800        307
+      2.900        314
+      3.000        309
+      3.100        304
+      3.200        310
+      3.300        305
+      3.400        308
+      3.500        303
+      3.600        317
+      3.700        300
+      3.800        296
+      3.900        301
+      4.000        307
+      4.100        298
+      4.200        317
+      4.300        302
+      4.400        307
+      4.500        294
+      4.600        304
+      4.700        306
+      4.800        318
+      4.900        314
+      5.000        323
+      5.100        305
+      5.200        312
+      5.300        307
+      5.400        322
+      5.500        318
+      5.600        312
+      5.700        307
+      5.800        312
+      5.900        319
+      6.000        307
+      6.100        314
+      6.200        301
+      6.300        317
+      6.400        312
+      6.500        308
+      6.600        313
+      6.700        309
+      6.800        312
+      6.900        317
+      7.000        305
+      7.100        314
+      7.200        302
+      7.300        307
+      7.400        314
+      7.500        303
+      7.600        309
+      7.700        308
+      7.800        311
+      7.900        298
+      8.000        310
+      8.100        295
+      8.200        311
+      8.300        311
+      8.400        314
+      8.500        308
+      8.600        309
+      8.700        302
+      8.800        309
+      8.900        313
+      9.000        309
+      9.100        309
+      9.200        306
+      9.300        297
+      9.400        307
+      9.500        305
+      9.600        293
+      9.700        305
+      9.800        307
+      9.900        305
+     10.000        303

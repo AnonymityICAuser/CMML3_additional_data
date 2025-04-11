@@ -1,0 +1,125 @@
+# This file was created Fri Apr 11 23:26:30 2025
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi hbond -s /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/1ns/md_1ns_protein.tpr -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/1ns/md_1ns_centered.xtc -tu ns -num /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/300K/1ns/hb_bb.xvg
+# gmx hbond is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Backbone Hydrogen Bonds at 300K (1ns)"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "Number of H-bonds"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Hydrogen bonds"
+      0.000        209
+      0.010        210
+      0.020        200
+      0.030        194
+      0.040        198
+      0.050        193
+      0.060        197
+      0.070        198
+      0.080        207
+      0.090        203
+      0.100        199
+      0.110        204
+      0.120        201
+      0.130        201
+      0.140        203
+      0.150        204
+      0.160        202
+      0.170        208
+      0.180        204
+      0.190        206
+      0.200        200
+      0.210        194
+      0.220        203
+      0.230        206
+      0.240        206
+      0.250        206
+      0.260        205
+      0.270        205
+      0.280        206
+      0.290        207
+      0.300        210
+      0.310        204
+      0.320        201
+      0.330        204
+      0.340        204
+      0.350        200
+      0.360        202
+      0.370        209
+      0.380        203
+      0.390        209
+      0.400        201
+      0.410        205
+      0.420        201
+      0.430        202
+      0.440        208
+      0.450        203
+      0.460        206
+      0.470        203
+      0.480        204
+      0.490        194
+      0.500        205
+      0.510        209
+      0.520        203
+      0.530        202
+      0.540        203
+      0.550        203
+      0.560        201
+      0.570        204
+      0.580        198
+      0.590        206
+      0.600        196
+      0.610        202
+      0.620        198
+      0.630        204
+      0.640        209
+      0.650        206
+      0.660        198
+      0.670        203
+      0.680        204
+      0.690        203
+      0.700        210
+      0.710        201
+      0.720        207
+      0.730        207
+      0.740        206
+      0.750        206
+      0.760        211
+      0.770        204
+      0.780        208
+      0.790        201
+      0.800        207
+      0.810        199
+      0.820        215
+      0.830        206
+      0.840        205
+      0.850        201
+      0.860        203
+      0.870        202
+      0.880        207
+      0.890        205
+      0.900        205
+      0.910        210
+      0.920        202
+      0.930        204
+      0.940        207
+      0.950        198
+      0.960        208
+      0.970        205
+      0.980        205
+      0.990        195
+      1.000        209

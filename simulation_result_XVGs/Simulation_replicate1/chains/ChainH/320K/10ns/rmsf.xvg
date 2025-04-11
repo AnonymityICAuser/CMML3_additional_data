@@ -1,0 +1,101 @@
+# This file was created Tue Apr  8 19:14:54 2025
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi rmsf -s /home/md_yiru/work_file/datasets/replicate_1/9_md/320K/10ns/md_10ns.tpr -f /home/md_yiru/work_file/datasets/replicate_1/9_md/320K/10ns/md_10ns_centered.xtc -n /home/md_yiru/work_file/datasets/replicate_1/chains.ndx -o /home/md_yiru/work_file/datasets/replicate_1/result_analysis/chains/ChainH/320K/10ns/rmsf.xvg -oq /home/md_yiru/work_file/datasets/replicate_1/result_analysis/chains/ChainH/320K/10ns/rmsf_bfac.pdb -res
+# gmx rmsf is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "RMSF Per Residue of Chain H at 320K (10ns)"
+@    xaxis  label "Residue Number"
+@    yaxis  label "RMSF (nm)"
+@TYPE xy
+    5   0.0936
+    6   0.0827
+    7   0.0700
+    8   0.0733
+    9   0.0457
+   10   0.0689
+   11   0.0524
+   12   0.0831
+   13   0.0488
+   14   0.0561
+   15   0.0399
+   16   0.0422
+   17   0.0704
+   18   0.0687
+   19   0.0607
+   20   0.0571
+   21   0.0599
+   22   0.0665
+   23   0.0658
+   24   0.0678
+   25   0.0668
+   26   0.1142
+   27   0.0890
+   28   0.0550
+   29   0.0571
+   30   0.0869
+   31   0.0563
+   32   0.0786
+   33   0.0614
+   34   0.1217
+   35   0.0933
+   36   0.0880
+   37   0.0553
+   38   0.0839
+   39   0.0998
+   40   0.1069
+   41   0.0983
+   42   0.0547
+   43   0.0544
+   44   0.0405
+   45   0.0407
+   46   0.0769
+   47   0.0555
+   48   0.0635
+   49   0.0821
+   50   0.0623
+   51   0.1137
+   52   0.1065
+   53   0.1050
+   54   0.0844
+   55   0.1055
+   56   0.0895
+   57   0.0592
+   58   0.0448
+   59   0.0512
+   60   0.0378
+   61   0.0415
+   62   0.0357
+   63   0.0667
+   64   0.0543
+   65   0.0468
+   66   0.0472
+   67   0.0462
+   68   0.0712
+   69   0.0469
+   70   0.0656
+   71   0.0645
+   72   0.1100
+   73   0.0883
+   74   0.0712
+   75   0.0862
+   76   0.0790
+   77   0.0520
+   78   0.0701
+   79   0.1123
+   80   0.0516
+   81   0.0553
+   82   0.0494
+   83   0.0421
+   84   0.0654
+   85   0.0527
+   86   0.0826
+   87   0.0504
+   88   0.0515

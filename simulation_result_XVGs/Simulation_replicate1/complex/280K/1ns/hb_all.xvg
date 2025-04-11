@@ -1,0 +1,125 @@
+# This file was created Tue Apr  8 19:06:08 2025
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi hbond -s /home/md_yiru/work_file/datasets/replicate_1/9_md/280K/1ns/md_1ns_protein.tpr -f /home/md_yiru/work_file/datasets/replicate_1/9_md/280K/1ns/md_1ns_centered.xtc -tu ns -num /home/md_yiru/work_file/datasets/replicate_1/result_analysis/complex/280K/1ns/hb_all.xvg
+# gmx hbond is part of G R O M A C S:
+#
+# Gnomes, ROck Monsters And Chili Sauce
+#
+@    title "Total Hydrogen Bonds at 280K (1ns)"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "Number of H-bonds"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Hydrogen bonds"
+      0.000        328
+      0.010        314
+      0.020        306
+      0.030        305
+      0.040        324
+      0.050        314
+      0.060        316
+      0.070        312
+      0.080        315
+      0.090        309
+      0.100        309
+      0.110        318
+      0.120        306
+      0.130        308
+      0.140        313
+      0.150        304
+      0.160        306
+      0.170        303
+      0.180        303
+      0.190        315
+      0.200        303
+      0.210        306
+      0.220        327
+      0.230        310
+      0.240        307
+      0.250        313
+      0.260        299
+      0.270        303
+      0.280        319
+      0.290        317
+      0.300        322
+      0.310        315
+      0.320        305
+      0.330        309
+      0.340        310
+      0.350        318
+      0.360        305
+      0.370        318
+      0.380        316
+      0.390        316
+      0.400        306
+      0.410        311
+      0.420        302
+      0.430        310
+      0.440        308
+      0.450        319
+      0.460        314
+      0.470        297
+      0.480        312
+      0.490        303
+      0.500        313
+      0.510        312
+      0.520        308
+      0.530        325
+      0.540        314
+      0.550        312
+      0.560        306
+      0.570        309
+      0.580        325
+      0.590        319
+      0.600        315
+      0.610        312
+      0.620        316
+      0.630        310
+      0.640        319
+      0.650        314
+      0.660        318
+      0.670        309
+      0.680        313
+      0.690        321
+      0.700        310
+      0.710        318
+      0.720        310
+      0.730        312
+      0.740        311
+      0.750        310
+      0.760        316
+      0.770        304
+      0.780        319
+      0.790        315
+      0.800        322
+      0.810        316
+      0.820        314
+      0.830        314
+      0.840        297
+      0.850        318
+      0.860        308
+      0.870        317
+      0.880        309
+      0.890        317
+      0.900        316
+      0.910        316
+      0.920        304
+      0.930        310
+      0.940        311
+      0.950        318
+      0.960        308
+      0.970        309
+      0.980        305
+      0.990        298
+      1.000        304

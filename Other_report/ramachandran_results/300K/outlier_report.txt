@@ -1,0 +1,13 @@
+Ramachandran Plot Outlier Report
+==============================
+
+
+File: annotated_300K.pdb
+------------------------
+
+  Chain D:
+    ASN 451: φ = 48.08°, ψ = 6.27° (Category: General)
+    TRP 486: φ = 62.13°, ψ = -82.70° (Category: General)
+
+  Chain H:
+    SER 111: φ = -28.46°, ψ = 143.59° (Category: General)

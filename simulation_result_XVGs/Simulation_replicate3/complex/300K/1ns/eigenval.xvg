@@ -1,0 +1,117 @@
+# This file was created Fri Apr 11 23:26:46 2025
+# Created by:
+#                      :-) GROMACS - gmx covar, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi covar -s /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/1ns/md_1ns.tpr -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/300K/1ns/md_1ns_centered.xtc -n /home/md_yiru/work_file/MD_results/batch3/replicate_1/chains.ndx -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/300K/1ns/eigenval.xvg -v /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/300K/1ns/eigenvec.trr
+# gmx covar is part of G R O M A C S:
+#
+# Getting the Right Output Means no Artefacts in Calculating Stuff
+#
+@    title "PCA Eigenvalues at 300K (1ns)"
+@    xaxis  label "Eigenvector index"
+@    yaxis  label "Eigenvalue (nm²)"
+@TYPE xy
+         1 0.630394
+         2 0.36132
+         3 0.224031
+         4 0.164672
+         5 0.142045
+         6 0.132204
+         7 0.0948232
+         8 0.0725755
+         9 0.0670663
+        10 0.0607292
+        11 0.0528911
+        12 0.0483443
+        13 0.043082
+        14 0.0404123
+        15 0.0388632
+        16 0.0358939
+        17 0.0345811
+        18 0.032134
+        19 0.0299769
+        20 0.0298309
+        21 0.0275201
+        22 0.02588
+        23 0.0249911
+        24 0.0242465
+        25 0.0236892
+        26 0.022418
+        27 0.021662
+        28 0.0211961
+        29 0.0200037
+        30 0.0188527
+        31 0.0186225
+        32 0.0184437
+        33 0.0183222
+        34 0.0174885
+        35 0.0170528
+        36 0.0162401
+        37 0.0161571
+        38 0.0151391
+        39 0.0151135
+        40 0.0148154
+        41 0.0142066
+        42 0.0138292
+        43 0.0137454
+        44 0.0133496
+        45 0.0130561
+        46 0.0128811
+        47 0.0126449
+        48 0.0123019
+        49 0.0119987
+        50 0.0114497
+        51 0.0112945
+        52 0.0111933
+        53 0.0109305
+        54 0.0107427
+        55 0.0107424
+        56 0.0102655
+        57 0.00999875
+        58 0.00999124
+        59 0.00971071
+        60 0.00949337
+        61 0.00919026
+        62 0.00911086
+        63 0.00880885
+        64 0.0085599
+        65 0.00843626
+        66 0.00833726
+        67 0.00824839
+        68 0.00807337
+        69 0.0078293
+        70 0.00757221
+        71 0.00748921
+        72 0.00728541
+        73 0.00725434
+        74 0.00684871
+        75 0.00681569
+        76 0.00644551
+        77 0.00638302
+        78 0.00621751
+        79 0.00605527
+        80 0.00603642
+        81 0.00583849
+        82 0.00571397
+        83 0.00563549
+        84 0.00526044
+        85 0.0052134
+        86 0.00508355
+        87 0.00492944
+        88 0.00483201
+        89 0.00476275
+        90 0.00472779
+        91 0.00449391
+        92 0.00441321
+        93 0.00428324
+        94 0.0040976
+        95 0.00400659
+        96 0.00389216
+        97 0.00384925
+        98 0.00372564
+        99 0.00363652
+       100 0.00349961

@@ -1,0 +1,45 @@
+# This file was created Tue Apr  8 19:12:41 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/datasets/replicate_1/7_nvt/320K/nvt.edr -o /home/md_yiru/work_file/datasets/replicate_1/result_analysis/complex/320K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Gravel Rubs Often Many Awfully Cauterized Sores
+#
+@    title "System Temperature at 320K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  321.203705
+    5.000000  319.194794
+   10.000000  318.362732
+   15.000000  319.439331
+   20.000000  319.944763
+   25.000000  320.887756
+   30.000000  319.845673
+   35.000000  322.877106
+   40.000000  319.449951
+   45.000000  318.937500
+   50.000000  320.542542
+   55.000000  320.745087
+   60.000000  320.940399
+   65.000000  317.993713
+   70.000000  319.832123
+   75.000000  319.007812
+   80.000000  320.548065
+   85.000000  320.261230
+   90.000000  318.596375
+   95.000000  320.283417
+  100.000000  318.217743

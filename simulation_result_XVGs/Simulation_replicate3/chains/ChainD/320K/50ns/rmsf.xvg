@@ -1,0 +1,115 @@
+# This file was created Fri Apr 11 23:29:47 2025
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi rmsf -s /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/320K/50ns/md_50ns.tpr -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/9_md/320K/50ns/md_50ns_centered.xtc -n /home/md_yiru/work_file/MD_results/batch3/replicate_1/chains.ndx -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/chains/ChainD/320K/50ns/rmsf.xvg -oq /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/chains/ChainD/320K/50ns/rmsf_bfac.pdb -res
+# gmx rmsf is part of G R O M A C S:
+#
+# Great Red Oystrich Makes All Chemists Sane
+#
+@    title "RMSF Per Residue of Chain D at 320K (50ns)"
+@    xaxis  label "Residue Number"
+@    yaxis  label "RMSF (nm)"
+@TYPE xy
+   88   0.0665
+   89   0.0555
+   90   0.0766
+   91   0.0744
+   92   0.0867
+   93   0.2127
+   94   0.2121
+   95   0.0647
+   96   0.0506
+   97   0.0578
+   98   0.0811
+   99   0.0469
+  100   0.0870
+  101   0.1375
+  102   0.0644
+  103   0.0600
+  104   0.1109
+  105   0.1341
+  106   0.1041
+  107   0.0606
+  108   0.1749
+  109   0.1197
+  110   0.0700
+  111   0.0756
+  112   0.2243
+  113   0.1045
+  114   0.0762
+  115   0.0666
+  116   0.0927
+  117   0.0999
+  118   0.0595
+  119   0.0466
+  120   0.0505
+  121   0.0745
+  122   0.0765
+  123   0.0974
+  124   0.1343
+  125   0.1195
+  126   0.1791
+  127   0.2398
+  128   0.1228
+  129   0.1979
+  130   0.1091
+  131   0.0689
+  132   0.0702
+  133   0.1626
+  134   0.1363
+  135   0.1073
+  136   0.1181
+  137   0.0689
+  138   0.1363
+  139   0.0824
+  140   0.0535
+  141   0.0605
+  142   0.0809
+  143   0.1610
+  144   0.0735
+  145   0.0828
+  146   0.0529
+  147   0.0700
+  148   0.0664
+  149   0.0624
+  150   0.1305
+  151   0.0940
+  152   0.1136
+  153   0.4585
+  154   0.1694
+  155   0.2396
+  156   0.2309
+  157   0.1877
+  158   0.0824
+  159   0.2106
+  160   0.2144
+  161   0.0742
+  162   0.0715
+  163   0.1613
+  164   0.1260
+  165   0.0883
+  166   0.0656
+  167   0.0714
+  168   0.1595
+  169   0.0569
+  170   0.0898
+  171   0.1679
+  172   0.1420
+  173   0.1834
+  334   0.4393
+  335   0.3447
+  336   0.2020
+  337   0.1825
+  338   0.1785
+  339   0.3537
+  340   0.1430
+  341   0.1312
+  342   0.2174
+  343   0.1700
+  344   0.1154
+  345   0.1496

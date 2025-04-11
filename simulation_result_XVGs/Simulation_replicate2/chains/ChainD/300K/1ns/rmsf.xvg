@@ -1,0 +1,117 @@
+# This file was created Wed Apr  9 14:39:32 2025
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi rmsf -s /home/md_yiru/work_file/datasets/replicate_2/9_md/300K/1ns/md_1ns.tpr -f /home/md_yiru/work_file/datasets/replicate_2/9_md/300K/1ns/md_1ns_centered.xtc -n /home/md_yiru/work_file/datasets/replicate_2/chains.ndx -o /home/md_yiru/work_file/datasets/replicate_2/result_analysis/chains/ChainD/300K/1ns/rmsf.xvg -oq /home/md_yiru/work_file/datasets/replicate_2/result_analysis/chains/ChainD/300K/1ns/rmsf_bfac.pdb -res
+# gmx rmsf is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "RMSF Per Residue of Chain D at 300K (1ns)"
+@    xaxis  label "Residue Number"
+@    yaxis  label "RMSF (nm)"
+@TYPE xy
+   88   0.0478
+   89   0.0608
+   90   0.0595
+   91   0.0696
+   92   0.0734
+   93   0.0674
+   94   0.0948
+   95   0.0536
+   96   0.0537
+   97   0.0570
+   98   0.0582
+   99   0.0568
+  100   0.0806
+  101   0.0835
+  102   0.0630
+  103   0.0544
+  104   0.1215
+  105   0.0885
+  106   0.0610
+  107   0.0593
+  108   0.1089
+  109   0.0780
+  110   0.0643
+  111   0.0791
+  112   0.1231
+  113   0.0880
+  114   0.0630
+  115   0.0462
+  116   0.0764
+  117   0.0504
+  118   0.0475
+  119   0.0483
+  120   0.0454
+  121   0.0561
+  122   0.0831
+  123   0.0763
+  124   0.1097
+  125   0.1126
+  126   0.1325
+  127   0.1049
+  128   0.1723
+  129   0.0808
+  130   0.0782
+  131   0.0602
+  132   0.0795
+  133   0.0791
+  134   0.0779
+  135   0.0852
+  136   0.0501
+  137   0.0724
+  138   0.0937
+  139   0.0633
+  140   0.0533
+  141   0.0756
+  142   0.0675
+  143   0.0712
+  144   0.0556
+  145   0.0552
+  146   0.0546
+  147   0.0566
+  148   0.0586
+  149   0.0626
+  150   0.0656
+  151   0.0751
+  152   0.0924
+  153   0.1807
+  154   0.1276
+  155   0.0986
+  156   0.0939
+  157   0.1209
+  158   0.0631
+  159   0.0676
+  160   0.1015
+  161   0.0591
+  162   0.0589
+  163   0.1038
+  164   0.0637
+  165   0.0621
+  166   0.0517
+  167   0.0579
+  168   0.0817
+  169   0.0547
+  170   0.0751
+  171   0.1120
+  172   0.0658
+  173   0.1294
+  174   0.1714
+  334   0.1692
+  335   0.1755
+  336   0.1334
+  337   0.1262
+  338   0.1665
+  339   0.1331
+  340   0.1133
+  341   0.0814
+  342   0.0936
+  343   0.0862
+  344   0.1166
+  345   0.0710
+  346   0.0667

@@ -1,0 +1,9 @@
+Ramachandran Plot Outlier Report
+==============================
+
+
+File: annotated_320K.pdb
+------------------------
+
+  Chain D:
+    TRP 486: φ = 65.23°, ψ = -87.98° (Category: General)

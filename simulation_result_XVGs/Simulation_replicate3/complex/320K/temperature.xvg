@@ -1,0 +1,45 @@
+# This file was created Fri Apr 11 23:28:15 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/7_nvt/320K/nvt.edr -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/320K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Gnomes, ROck Monsters And Chili Sauce
+#
+@    title "System Temperature at 320K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  320.990479
+    5.000000  319.838043
+   10.000000  319.447968
+   15.000000  320.082733
+   20.000000  321.471466
+   25.000000  319.204163
+   30.000000  319.962494
+   35.000000  321.488800
+   40.000000  319.556366
+   45.000000  321.716003
+   50.000000  319.035187
+   55.000000  318.765320
+   60.000000  319.985321
+   65.000000  319.847015
+   70.000000  320.201416
+   75.000000  320.058014
+   80.000000  321.733246
+   85.000000  320.635468
+   90.000000  321.409241
+   95.000000  319.482544
+  100.000000  319.656891

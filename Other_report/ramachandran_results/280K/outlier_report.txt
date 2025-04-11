@@ -1,0 +1,11 @@
+Ramachandran Plot Outlier Report
+==============================
+
+
+File: annotated.pdb
+-------------------
+
+  Chain H:
+    TYR 33: φ = 73.67°, ψ = 125.50° (Category: General)
+    THR 64: φ = 78.53°, ψ = 112.89° (Category: General)
+    ASN 154: φ = 177.46°, ψ = 113.97° (Category: General)

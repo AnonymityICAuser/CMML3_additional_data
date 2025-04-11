@@ -1,0 +1,125 @@
+# This file was created Tue Apr  8 19:06:39 2025
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi hbond -s /home/md_yiru/work_file/datasets/replicate_1/9_md/280K/10ns/md_10ns_protein.tpr -f /home/md_yiru/work_file/datasets/replicate_1/9_md/280K/10ns/md_10ns_centered.xtc -tu ns -num /home/md_yiru/work_file/datasets/replicate_1/result_analysis/complex/280K/10ns/hb_bb.xvg
+# gmx hbond is part of G R O M A C S:
+#
+# Great Red Oystrich Makes All Chemists Sane
+#
+@    title "Backbone Hydrogen Bonds at 280K (10ns)"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "Number of H-bonds"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Hydrogen bonds"
+      0.000        202
+      0.100        203
+      0.200        208
+      0.300        208
+      0.400        200
+      0.500        199
+      0.600        203
+      0.700        205
+      0.800        208
+      0.900        208
+      1.000        208
+      1.100        211
+      1.200        207
+      1.300        198
+      1.400        193
+      1.500        207
+      1.600        201
+      1.700        197
+      1.800        193
+      1.900        198
+      2.000        196
+      2.100        210
+      2.200        197
+      2.300        203
+      2.400        202
+      2.500        202
+      2.600        197
+      2.700        199
+      2.800        191
+      2.900        203
+      3.000        201
+      3.100        211
+      3.200        206
+      3.300        191
+      3.400        192
+      3.500        204
+      3.600        200
+      3.700        201
+      3.800        194
+      3.900        204
+      4.000        211
+      4.100        198
+      4.200        200
+      4.300        205
+      4.400        201
+      4.500        202
+      4.600        195
+      4.700        205
+      4.800        200
+      4.900        203
+      5.000        203
+      5.100        199
+      5.200        208
+      5.300        209
+      5.400        204
+      5.500        200
+      5.600        201
+      5.700        198
+      5.800        199
+      5.900        207
+      6.000        204
+      6.100        198
+      6.200        206
+      6.300        198
+      6.400        205
+      6.500        203
+      6.600        200
+      6.700        197
+      6.800        194
+      6.900        202
+      7.000        189
+      7.100        202
+      7.200        206
+      7.300        201
+      7.400        195
+      7.500        206
+      7.600        198
+      7.700        203
+      7.800        199
+      7.900        200
+      8.000        197
+      8.100        200
+      8.200        201
+      8.300        200
+      8.400        209
+      8.500        203
+      8.600        204
+      8.700        191
+      8.800        204
+      8.900        199
+      9.000        204
+      9.100        202
+      9.200        203
+      9.300        204
+      9.400        215
+      9.500        207
+      9.600        208
+      9.700        204
+      9.800        196
+      9.900        202
+     10.000        204

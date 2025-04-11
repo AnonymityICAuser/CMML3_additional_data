@@ -1,0 +1,45 @@
+# This file was created Fri Apr 11 23:24:11 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/7_nvt/280K/nvt.edr -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/280K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
+#
+@    title "System Temperature at 280K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  280.327240
+    5.000000  280.793732
+   10.000000  279.278412
+   15.000000  280.889648
+   20.000000  278.900146
+   25.000000  280.199615
+   30.000000  279.762604
+   35.000000  278.413727
+   40.000000  279.948761
+   45.000000  278.167145
+   50.000000  280.124664
+   55.000000  279.339142
+   60.000000  280.115997
+   65.000000  280.238037
+   70.000000  281.779694
+   75.000000  279.168182
+   80.000000  279.358276
+   85.000000  278.315155
+   90.000000  279.581879
+   95.000000  279.325928
+  100.000000  280.394287

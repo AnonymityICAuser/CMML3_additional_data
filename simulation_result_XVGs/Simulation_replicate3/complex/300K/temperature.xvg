@@ -1,0 +1,45 @@
+# This file was created Fri Apr 11 23:26:16 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/MD_results/batch3/replicate_1/7_nvt/300K/nvt.edr -o /home/md_yiru/work_file/MD_results/batch3/replicate_1/result_analysis/complex/300K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Good gRace! Old Maple Actually Chews Slate
+#
+@    title "System Temperature at 300K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  300.936188
+    5.000000  299.144012
+   10.000000  299.470978
+   15.000000  302.110352
+   20.000000  302.081543
+   25.000000  300.420929
+   30.000000  300.355835
+   35.000000  298.765900
+   40.000000  300.385010
+   45.000000  296.619965
+   50.000000  298.758942
+   55.000000  298.768555
+   60.000000  300.381073
+   65.000000  298.163239
+   70.000000  299.497620
+   75.000000  299.543396
+   80.000000  300.531250
+   85.000000  300.696411
+   90.000000  300.783691
+   95.000000  299.726776
+  100.000000  300.320251

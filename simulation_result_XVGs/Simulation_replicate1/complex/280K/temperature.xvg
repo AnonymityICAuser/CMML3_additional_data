@@ -1,0 +1,45 @@
+# This file was created Tue Apr  8 19:05:55 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/datasets/replicate_1/7_nvt/280K/nvt.edr -o /home/md_yiru/work_file/datasets/replicate_1/result_analysis/complex/280K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "System Temperature at 280K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  279.570374
+    5.000000  281.221680
+   10.000000  278.947998
+   15.000000  281.797333
+   20.000000  279.942383
+   25.000000  279.350189
+   30.000000  279.627319
+   35.000000  279.636230
+   40.000000  278.572815
+   45.000000  278.128387
+   50.000000  281.384796
+   55.000000  282.384796
+   60.000000  282.327240
+   65.000000  280.112396
+   70.000000  280.653778
+   75.000000  278.026611
+   80.000000  280.028381
+   85.000000  279.822571
+   90.000000  279.798157
+   95.000000  279.860535
+  100.000000  278.687225

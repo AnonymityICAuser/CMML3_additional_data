@@ -1,0 +1,45 @@
+# This file was created Tue Apr  8 19:10:46 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi energy -f /home/md_yiru/work_file/datasets/replicate_1/7_nvt/300K/nvt.edr -o /home/md_yiru/work_file/datasets/replicate_1/result_analysis/complex/300K/temperature.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "System Temperature at 300K"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Temperature (K)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Temperature"
+    0.000000  299.523468
+    5.000000  299.341675
+   10.000000  298.513489
+   15.000000  298.054871
+   20.000000  300.363312
+   25.000000  302.337769
+   30.000000  300.093658
+   35.000000  300.092407
+   40.000000  300.488098
+   45.000000  301.249451
+   50.000000  300.395325
+   55.000000  301.123901
+   60.000000  300.294525
+   65.000000  299.209137
+   70.000000  302.004333
+   75.000000  299.534790
+   80.000000  299.843353
+   85.000000  298.583618
+   90.000000  300.686798
+   95.000000  301.147736
+  100.000000  298.786469

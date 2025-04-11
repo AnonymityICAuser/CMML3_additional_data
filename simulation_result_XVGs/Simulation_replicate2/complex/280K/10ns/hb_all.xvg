@@ -1,0 +1,125 @@
+# This file was created Wed Apr  9 14:37:50 2025
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2024.3 (-:
+# 
+# Executable:   /software/gromacs-2024.3/build/bin/gmx_mpi
+# Data prefix:  /software/gromacs-2024.3 (source tree)
+# Working dir:  /home/md_yiru
+# Command line:
+#   gmx_mpi hbond -s /home/md_yiru/work_file/datasets/replicate_2/9_md/280K/10ns/md_10ns_protein.tpr -f /home/md_yiru/work_file/datasets/replicate_2/9_md/280K/10ns/md_10ns_centered.xtc -tu ns -num /home/md_yiru/work_file/datasets/replicate_2/result_analysis/complex/280K/10ns/hb_all.xvg
+# gmx hbond is part of G R O M A C S:
+#
+# GROningen Mixture of Alchemy and Childrens' Stories
+#
+@    title "Total Hydrogen Bonds at 280K (10ns)"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "Number of H-bonds"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Hydrogen bonds"
+      0.000        299
+      0.100        320
+      0.200        310
+      0.300        304
+      0.400        314
+      0.500        315
+      0.600        302
+      0.700        314
+      0.800        294
+      0.900        309
+      1.000        303
+      1.100        316
+      1.200        310
+      1.300        316
+      1.400        302
+      1.500        301
+      1.600        309
+      1.700        298
+      1.800        307
+      1.900        303
+      2.000        302
+      2.100        301
+      2.200        302
+      2.300        300
+      2.400        311
+      2.500        309
+      2.600        301
+      2.700        305
+      2.800        306
+      2.900        304
+      3.000        293
+      3.100        297
+      3.200        304
+      3.300        301
+      3.400        317
+      3.500        295
+      3.600        308
+      3.700        305
+      3.800        297
+      3.900        297
+      4.000        294
+      4.100        298
+      4.200        306
+      4.300        298
+      4.400        292
+      4.500        295
+      4.600        295
+      4.700        299
+      4.800        296
+      4.900        310
+      5.000        306
+      5.100        297
+      5.200        309
+      5.300        298
+      5.400        300
+      5.500        295
+      5.600        303
+      5.700        315
+      5.800        309
+      5.900        300
+      6.000        321
+      6.100        308
+      6.200        316
+      6.300        323
+      6.400        313
+      6.500        305
+      6.600        311
+      6.700        317
+      6.800        319
+      6.900        313
+      7.000        313
+      7.100        303
+      7.200        323
+      7.300        307
+      7.400        294
+      7.500        297
+      7.600        305
+      7.700        313
+      7.800        305
+      7.900        296
+      8.000        304
+      8.100        306
+      8.200        306
+      8.300        309
+      8.400        306
+      8.500        314
+      8.600        317
+      8.700        311
+      8.800        316
+      8.900        302
+      9.000        299
+      9.100        306
+      9.200        307
+      9.300        306
+      9.400        307
+      9.500        300
+      9.600        309
+      9.700        300
+      9.800        299
+      9.900        310
+     10.000        298
