@@ -21,3 +21,7 @@ CMML3_additional_data
     └── Simulation_replicate3/
 
 ```
+
+I also put a GIF of the trajctory of complex in 300K simulation here:
+
+![alt text](https://github.com/AnonymityICAuser/CMML3_additional_data/blob/9d9edcdff09b53d411a44766fcc31c1e3c720fd1/300K.gif "300K")
